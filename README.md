@@ -1,15 +1,15 @@
-# Harshwardhan Sharma
+**# Harshwardhan Sharma
 
 ---
 
 ## About Me 👤
 
-**Tech Explorer | Developer | Learner**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&background=FFFFFF00&center=false&vCenter=false&width=500&lines=Tech+Explorer+%7C+Developer+%7C+Learner)](https://git.io/typing-svg)
 
-- 🎓 B.Tech CSE student (AITR, Indore)
-- 💻 Python Developer
-- 🌱 Currently learning **React and fundamentals**
-- 🧠 Focused on problem solving & real-world projects
+- 🎓 B.Tech CSE student (AITR, Indore)  
+- 💻 Python Developer  
+- 🌱 Currently learning **React and fundamentals**  
+- 🧠 Focused on problem solving & real-world projects  
 
 ---
 
@@ -24,7 +24,7 @@
 ## 📊 GitHub Insights
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshwardhans-hub&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harshwardhans-hub&theme=github_dark" />
 </p>
 
 ---
@@ -32,7 +32,7 @@
 ## 📈 Contribution Activity
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harshwardhans-hub&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harshwardhans-hub&theme=github_dark" />
 </p>
 
 ---
@@ -46,8 +46,8 @@
 
 ## 🌐 Connect With Me
 
-<p>
-  <a href="https://www.linkedin.com/in/harshwardhan-sharma-a15808312/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
+<div align="left">
+  <a href="https://www.linkedin.com/in/harshwardhan-sharma-a15808312/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</p>
+</div>**
