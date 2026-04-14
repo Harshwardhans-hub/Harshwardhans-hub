@@ -24,7 +24,7 @@
 ## 📊 GitHub Insights
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshwardhans-hub&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshwardhans-hub&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
@@ -32,15 +32,15 @@
 ## 📈 Contribution Activity
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harshwardhans-hub&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harshwardhans-hub&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🚀 Current Focus
 
-- Building projects
-- Strengthening DSA fundamentals
+- Building projects  
+- Strengthening DSA fundamentals  
 
 ---
 
