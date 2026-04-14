@@ -1,7 +1,5 @@
 # Harshwardhan Sharma
 
-![Profile Views](https://komarev.com/ghpvc/?username=Harshwardhans-hub&label=PROFILE+VIEWS&color=blue&style=flat)
-
 ---
 
 ## About Me 👤
@@ -19,18 +17,14 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,html,css,javascript,react,mysql,github,flask,firebase" />
-</p>python,javascript,react,html,css,mysql,git,github,vscode
+</p>
 
 ---
 
 ## 📊 GitHub Insights
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshwardhans-hub&show_icons=true&theme=default&hide_border=true" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshwardhans-hub&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshwardhans-hub&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 ---
@@ -38,20 +32,15 @@
 ## 📈 Contribution Activity
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harshwardhans-hub&theme=github" />
-</p>
-
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harshwardhans-hub&theme=github" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harshwardhans-hub&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harshwardhans-hub&theme=github_dark" />
 </p>
 
 ---
 
 ## 🚀 Current Focus
 
-- Building  projects  
-- Strengthening DSA fundamentals  
+- Building projects
+- Strengthening DSA fundamentals
 
 ---
 
