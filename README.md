@@ -1,68 +1,64 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:020617&height=220&section=header&text=Harshwardhan%20Sharma&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
+# Harshwardhan Sharma
 
-<!-- Typing -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=2563EB&center=true&vCenter=true&width=650&lines=Python+Developer;React+Learner;B.Tech+CSE+Student;Open+Source+Explorer" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=Harshwardhans-hub&label=PROFILE+VIEWS&color=blue&style=flat)
 
 ---
 
-## 👋 About Me
+## About Me 👤
 
-- 🎓 B.Tech CSE student at **AITR, Indore**
-- 💻 Python developer interested in **web development**
+**Tech Explorer | Developer | Learner**
+
+- 🎓 B.Tech CSE student (AITR, Indore)
+- 💻 Python Developer
 - 🌱 Currently learning **React and fundamentals**
-- 🧠 Focused on **problem solving & real projects**
-- 🤝 Open to **internships & collaborations**
+- 🧠 Focused on problem solving & real-world projects
 
 ---
 
 ## ⚙️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,react,html,css,mysql,git,github,vscode" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,react,mysql,github,flask,firebase" />
+</p>python,javascript,react,html,css,mysql,git,github,vscode
+
+---
+
+## 📊 GitHub Insights
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshwardhans-hub&show_icons=true&theme=default&hide_border=true" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshwardhans-hub&theme=default&hide_border=true" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Contribution Activity
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Harshwardhans-hub&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshwardhans-hub&layout=compact&theme=github_dark&hide_border=true" />
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harshwardhans-hub&theme=github" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Harshwardhans-hub&theme=github-dark&hide_border=true" />
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harshwardhans-hub&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harshwardhans-hub&theme=github" />
 </p>
 
 ---
 
 ## 🚀 Current Focus
 
-- Building projects with **React**
-- Improving **DSA fundamentals**
-- Writing clean and maintainable code
-- Learning by building
+- Building  projects  
+- Strengthening DSA fundamentals  
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/harshwardhan-sharma-a15808312/">
-    <img src="https://img.shields.io/badge/LinkedIn-Harshwardhan%20Sharma-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:2563EB&height=120&section=footer"/>
 </p>
