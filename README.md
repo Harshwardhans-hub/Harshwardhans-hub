@@ -4,7 +4,9 @@
 
 ## About Me 👤
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&color=2F81F7&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Tech+Explorer+%7C+Developer+%7C+Learner)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:2F81F7,100:1f2937&height=80&section=header&text=Tech%20Explorer%20•%20Developer%20•%20Learner&fontSize=20&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 - 🎓 B.Tech CSE student (AITR, Indore)  
 - 💻 Python Developer  
