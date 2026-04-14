@@ -1,4 +1,4 @@
-**# Harshwardhan Sharma
+ Harshwardhan Sharma
 
 ---
 
@@ -50,4 +50,4 @@
   <a href="https://www.linkedin.com/in/harshwardhan-sharma-a15808312/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</div>**
+</div>
