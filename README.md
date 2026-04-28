@@ -5,7 +5,7 @@
 ## About Me 👤
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:2F81F7,100:1f2937&height=80&section=header&text=Tech%20Explorer%20•%20Developer%20•%20Learner&fontSize=20&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:2F81F7,100:1f2937&height=80&section=header&text=Tech%20Developer%20•%20Explorer%20•%20Collaborator&fontSize=20&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 - 🎓 B.Tech CSE student (AITR, Indore)  
