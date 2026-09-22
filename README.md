@@ -10,7 +10,7 @@
 
 - 🎓 B.Tech CSE student (AITR, Indore)  
 - 💻 Python Developer  
-- 🌱 Currently learning **React and fundamentals**  
+- 🌱 Currently learning **DSA and fundamentals**  
 - 🧠 Focused on problem solving & real-world projects  
 
 ---
